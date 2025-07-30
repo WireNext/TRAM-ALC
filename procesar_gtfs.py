@@ -3,22 +3,37 @@ import requests
 import csv
 import json
 import os
+import urllib3
 from collections import defaultdict
 
-url = "http://www.tramalicante.es/google_transit_feed/google_transit.zip"
+# 🔇 Desactivar advertencias SSL inseguras
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+# URL del feed GTFS
+url = "https://www.tramalacant.es/google_transit_feed/google_transit.zip"
 
 print("📦 Descargando GTFS...")
-r = requests.get(url)
+try:
+    r = requests.get(url, verify=False)
+    r.raise_for_status()
+except Exception as e:
+    print(f"❌ Error al descargar el GTFS: {e}")
+    exit(1)
+
+# Guardar ZIP descargado
 with open("gtfs.zip", "wb") as f:
     f.write(r.content)
+
+# Crear carpeta de trabajo
+os.makedirs("gtfs", exist_ok=True)
 
 print("📂 Extrayendo archivos...")
 with zipfile.ZipFile("gtfs.zip", 'r') as zip_ref:
     zip_ref.extractall("gtfs")
 
-os.makedirs("gtfs", exist_ok=True)
+# --- FILTRADO Y PROCESAMIENTO ---
 
-
+# 1. Filtrar rutas deseadas
 rutas_deseadas = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10"}
 route_ids = set()
 with open("gtfs/routes.txt", encoding="utf-8") as f:
@@ -53,7 +68,7 @@ with open("gtfs/stops.txt", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     stops_filtrados = [row for row in reader if row["stop_id"] in stop_ids]
 
-# 5. Filtrar shapes por shape_id y organizar como JSON
+# 5. Filtrar shapes por shape_id
 shapes_json = defaultdict(list)
 with open("gtfs/shapes.txt", encoding="utf-8") as f:
     reader = csv.DictReader(f)
@@ -65,11 +80,11 @@ with open("gtfs/shapes.txt", encoding="utf-8") as f:
                 "shape_pt_sequence": row["shape_pt_sequence"]
             })
 
-# Ordenar por secuencia
+# Ordenar coordenadas de shapes
 for puntos in shapes_json.values():
     puntos.sort(key=lambda p: int(p["shape_pt_sequence"]))
 
-# 6. Guardar resultados
+# 6. Guardar resultados como JSON
 def guardar(nombre, datos):
     with open(f"gtfs/{nombre}.json", "w", encoding="utf-8") as f:
         json.dump(datos, f, ensure_ascii=False, indent=2)
