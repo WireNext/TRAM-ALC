@@ -1,30 +1,497 @@
 [
   {
-    "route_id": "59990030",
-    "agency_id": "5999",
-    "route_short_name": "T3",
-    "route_long_name": "Grau – Serradal",
-    "route_type": "3"
+    "route_id": "A1-125-2",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Benidorm Intermodal - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "59990040",
-    "agency_id": "5999",
-    "route_short_name": "T4",
-    "route_long_name": "UJI – Parc Ribalta",
-    "route_type": "3"
+    "route_id": "A1-125-3",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Benidorm Intermodal - Mercado",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "59990010",
-    "agency_id": "5999",
-    "route_short_name": "T1",
-    "route_long_name": "UJI – Grau",
-    "route_type": "3"
+    "route_id": "A1-17-2",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - El Campello - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "59990020",
-    "agency_id": "5999",
-    "route_short_name": "T2",
-    "route_long_name": "UJI – Grau – Platja",
-    "route_type": "3"
+    "route_id": "A1-17-33",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - El Campello - Benidorm",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-19-33",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Poble Espanyol - Benidorm",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-2-125",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Alicante - Luceros - Benidorm Intermodal",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-2-16",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Alicante - Luceros - Pla Barraques",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-2-17",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Alicante - Luceros - El Campello",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-2-33",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Alicante - Luceros - Benidorm",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-3-125",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Mercado - Benidorm Intermodal",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-3-16",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Mercado - Pla Barraques",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-3-17",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Mercado - El Campello",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-32-2",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Terra Mitica - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-32-3",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Terra Mitica - Mercado",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-33-17",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Benidorm - El Campello",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-33-2",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Benidorm - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-33-3",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Benidorm - Mercado",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A2-120-2",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Virgen del Remedio - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A2-123-3",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Universitat - Mercado",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A2-124-2",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Sant Vicent del Raspeig - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A2-124-3",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Sant Vicent del Raspeig - Mercado",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A2-2-123",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Alicante - Luceros - Universitat",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A2-2-124",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Alicante - Luceros - Sant Vicent del Raspeig",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A2-3-124",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Mercado - Sant Vicent del Raspeig",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A3-16-2",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Pla Barraques - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A3-16-3",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Pla Barraques - Mercado",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A3-17-2",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - El Campello - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A3-17-3",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - El Campello - Mercado",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A3-2-16",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Alicante - Luceros - Pla Barraques",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A3-2-17",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Alicante - Luceros - El Campello",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A3-3-17",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Mercado - El Campello",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-110-2",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Plaza La Coruña - Alicante - Luceros",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-110-3",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Plaza La Coruña - Mercado",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-2-110",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Alicante - Luceros - Plaza La Coruña",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-2-111",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Alicante - Luceros - Instituto",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-3-110",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Mercado - Plaza La Coruña",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-101-110",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Porta del Mar - Plaza La Coruña",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-101-111",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Porta del Mar - Instituto",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-101-17",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Porta del Mar - El Campello",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-110-101",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Plaza La Coruña - Porta del Mar",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-110-102",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Plaza La Coruña - La Marina",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-16-102",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Pla Barraques - La Marina",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-17-101",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - El Campello - Porta del Mar",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-33-39",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Benidorm - Garganes",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-33-41",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Benidorm - Olla de Altea",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-33-42",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Benidorm - Calp",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-33-49",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Benidorm - Bosc de Diana",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-33-50",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Benidorm - Dénia",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-39-33",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Garganes - Benidorm",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-41-33",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Olla de Altea - Benidorm",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-41-42",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Olla de Altea - Calp",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-42-33",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Calp - Benidorm",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-42-41",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Calp - Olla de Altea",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-49-33",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Bosc de Diana - Benidorm",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-50-33",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Dénia - Benidorm",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
   }
 ]
