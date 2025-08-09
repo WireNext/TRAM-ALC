@@ -27,6 +27,24 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A1-17-31",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - El Campello - Cala finestrat",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-17-32",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - El Campello - Terra Mitica",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A1-17-33",
     "agency_id": "1",
     "route_short_name": "1",
@@ -72,6 +90,24 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A1-2-31",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Alicante - Luceros - Cala finestrat",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-2-32",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Alicante - Luceros - Terra Mitica",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A1-2-33",
     "agency_id": "1",
     "route_short_name": "1",
@@ -103,6 +139,33 @@
     "agency_id": "1",
     "route_short_name": "1",
     "route_long_name": "1 - Mercado - El Campello",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-3-32",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Mercado - Terra Mitica",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-3-33",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Mercado - Benidorm",
+    "route_type": "0",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A1-32-17",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Terra Mitica - El Campello",
     "route_type": "0",
     "route_color": "CE142B",
     "route_text_color": "FFFFFF"
@@ -162,6 +225,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A2-123-2",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Universitat - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A2-123-3",
     "agency_id": "1",
     "route_short_name": "2",
@@ -189,6 +261,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A2-2-122",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Alicante - Luceros - Santa Isabel",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A2-2-123",
     "agency_id": "1",
     "route_short_name": "2",
@@ -207,12 +288,39 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A2-3-123",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Mercado - Universitat",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A2-3-124",
     "agency_id": "1",
     "route_short_name": "2",
     "route_long_name": "2 - Mercado - Sant Vicent del Raspeig",
     "route_type": "0",
     "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A2-4-124",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - MARQ - CASTILLO - Sant Vicent del Raspeig",
+    "route_type": "0",
+    "route_color": "00B23C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A3-15-2",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Salesians - Alicante - Luceros",
+    "route_type": "0",
+    "route_color": "FBC817",
     "route_text_color": "FFFFFF"
   },
   {
@@ -252,6 +360,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A3-2-15",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Alicante - Luceros - Salesians",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A3-2-16",
     "agency_id": "1",
     "route_short_name": "3",
@@ -270,12 +387,57 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A3-3-15",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Mercado - Salesians",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A3-3-16",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Mercado - Pla Barraques",
+    "route_type": "0",
+    "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A3-3-17",
     "agency_id": "1",
     "route_short_name": "3",
     "route_long_name": "3 - Mercado - El Campello",
     "route_type": "0",
     "route_color": "FBC817",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-109-2",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Londres - Alicante - Luceros",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-109-3",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Londres - Mercado",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-109-4",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Londres - MARQ - CASTILLO",
+    "route_type": "1",
+    "route_color": "CEA8CE",
     "route_text_color": "FFFFFF"
   },
   {
@@ -292,6 +454,15 @@
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Plaza La Coruña - Mercado",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-110-4",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Plaza La Coruña - MARQ - CASTILLO",
     "route_type": "1",
     "route_color": "CEA8CE",
     "route_text_color": "FFFFFF"
@@ -315,10 +486,46 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A4-2-112",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Alicante - Luceros - Paises Escandinavos",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A4-3-110",
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Mercado - Plaza La Coruña",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-3-111",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Mercado - Instituto",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-3-112",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Mercado - Paises Escandinavos",
+    "route_type": "1",
+    "route_color": "CEA8CE",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A4-4-110",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - MARQ - CASTILLO - Plaza La Coruña",
     "route_type": "1",
     "route_color": "CEA8CE",
     "route_text_color": "FFFFFF"
@@ -342,10 +549,64 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A5-101-15",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Porta del Mar - Salesians",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A5-101-17",
     "agency_id": "1",
     "route_short_name": "5",
     "route_long_name": "5 - Porta del Mar - El Campello",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-102-110",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - La Marina - Plaza La Coruña",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-102-111",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - La Marina - Instituto",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-109-101",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Londres - Porta del Mar",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-109-102",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Londres - La Marina",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-109-5",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Londres - Sangueta",
     "route_type": "0",
     "route_color": "005396",
     "route_text_color": "FFFFFF"
@@ -369,6 +630,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A5-110-5",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Plaza La Coruña - Sangueta",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A5-16-102",
     "agency_id": "1",
     "route_short_name": "5",
@@ -387,28 +657,37 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A5-5-110",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Sangueta - Plaza La Coruña",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-5-17",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Sangueta - El Campello",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A5-8-101",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Lucentum - Porta del Mar",
+    "route_type": "0",
+    "route_color": "005396",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A9-33-39",
     "agency_id": "1",
     "route_short_name": "9",
     "route_long_name": "9 - Benidorm - Garganes",
-    "route_type": "0",
-    "route_color": "A2A3A5",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "A9-33-41",
-    "agency_id": "1",
-    "route_short_name": "9",
-    "route_long_name": "9 - Benidorm - Olla de Altea",
-    "route_type": "0",
-    "route_color": "A2A3A5",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "A9-33-42",
-    "agency_id": "1",
-    "route_short_name": "9",
-    "route_long_name": "9 - Benidorm - Calp",
     "route_type": "0",
     "route_color": "A2A3A5",
     "route_text_color": "FFFFFF"
@@ -432,10 +711,28 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "A9-38-33",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Altea - Benidorm",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "A9-39-33",
     "agency_id": "1",
     "route_short_name": "9",
     "route_long_name": "9 - Garganes - Benidorm",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-41-125",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Olla de Altea - Benidorm Intermodal",
     "route_type": "0",
     "route_color": "A2A3A5",
     "route_text_color": "FFFFFF"
@@ -450,10 +747,10 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "A9-41-42",
+    "route_id": "A9-42-125",
     "agency_id": "1",
     "route_short_name": "9",
-    "route_long_name": "9 - Olla de Altea - Calp",
+    "route_long_name": "9 - Calp - Benidorm Intermodal",
     "route_type": "0",
     "route_color": "A2A3A5",
     "route_text_color": "FFFFFF"
@@ -472,6 +769,15 @@
     "agency_id": "1",
     "route_short_name": "9",
     "route_long_name": "9 - Calp - Olla de Altea",
+    "route_type": "0",
+    "route_color": "A2A3A5",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "A9-49-125",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Bosc de Diana - Benidorm Intermodal",
     "route_type": "0",
     "route_color": "A2A3A5",
     "route_text_color": "FFFFFF"
