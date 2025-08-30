@@ -153,15 +153,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "A2-120-2",
-    "agency_id": "1",
-    "route_short_name": "2",
-    "route_long_name": "2 - Virgen del Remedio - Alicante - Luceros",
-    "route_type": "0",
-    "route_color": "00B23C",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "A2-123-3",
     "agency_id": "1",
     "route_short_name": "2",
