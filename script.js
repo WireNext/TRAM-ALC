@@ -20,7 +20,7 @@ async function cargarDatosGTFS() {
 }
 
 function iniciarMapa(stops, stopTimes, trips, routes, shapes) {
-  const map = L.map('map').setView([39.4699, -0.3763], 14); // Valencia
+  const map = L.map('map').setView([38.3452, -0.4810], 14); // Valencia
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
