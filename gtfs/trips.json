@@ -6314,2774 +6314,3481 @@
     "shape_id": "21"
   },
   {
-    "route_id": "A1-33-17",
-    "service_id": "1193",
-    "trip_id": "920597",
+    "route_id": "A1-19-33",
+    "service_id": "1197",
+    "trip_id": "921932",
     "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-17",
-    "service_id": "1193",
-    "trip_id": "920400",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920596",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-17",
-    "service_id": "1193",
-    "trip_id": "920399",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920595",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-17",
-    "service_id": "1193",
-    "trip_id": "920398",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-125-2",
-    "service_id": "1193",
-    "trip_id": "920594",
-    "trip_headsign": "Benidorm Intermodal",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-17",
-    "service_id": "1193",
-    "trip_id": "920397",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920593",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-17",
-    "service_id": "1193",
-    "trip_id": "920396",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-125-2",
-    "service_id": "1193",
-    "trip_id": "920592",
-    "trip_headsign": "Benidorm Intermodal",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920395",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920591",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920394",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920590",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920393",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920589",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-125",
-    "service_id": "1193",
-    "trip_id": "920392",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920588",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920391",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920587",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-125",
-    "service_id": "1193",
-    "trip_id": "920390",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920586",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920389",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920585",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920388",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920584",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920387",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920583",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920386",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-125-2",
-    "service_id": "1193",
-    "trip_id": "920582",
-    "trip_headsign": "Benidorm Intermodal",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920385",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920581",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920384",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-125-2",
-    "service_id": "1193",
-    "trip_id": "920580",
-    "trip_headsign": "Benidorm Intermodal",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920383",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920579",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920382",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920578",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920381",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920577",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-125",
-    "service_id": "1193",
-    "trip_id": "920380",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920576",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920379",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920575",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-125",
-    "service_id": "1193",
-    "trip_id": "920378",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920574",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920377",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920573",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920376",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-125-2",
-    "service_id": "1193",
-    "trip_id": "920572",
-    "trip_headsign": "Benidorm Intermodal",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920375",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920571",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920374",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-125-2",
-    "service_id": "1193",
-    "trip_id": "920570",
-    "trip_headsign": "Benidorm Intermodal",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920373",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920569",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920372",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920568",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920371",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920567",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-125",
-    "service_id": "1193",
-    "trip_id": "920370",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920566",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920369",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920565",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-125",
-    "service_id": "1193",
-    "trip_id": "920368",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920564",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920367",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "2"
-  },
-  {
-    "route_id": "A1-33-2",
-    "service_id": "1193",
-    "trip_id": "920563",
-    "trip_headsign": "Benidorm",
-    "shape_id": "1"
-  },
-  {
-    "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920366",
-    "trip_headsign": "Alicante - Luceros",
     "shape_id": "2"
   },
   {
     "route_id": "A1-17-2",
-    "service_id": "1193",
-    "trip_id": "920562",
-    "trip_headsign": "El Campello",
+    "service_id": "1197",
+    "trip_id": "922181",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "1"
   },
   {
     "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920365",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921933",
+    "trip_headsign": "Benidorm",
     "shape_id": "2"
   },
   {
     "route_id": "A1-17-2",
-    "service_id": "1193",
-    "trip_id": "920561",
-    "trip_headsign": "El Campello",
+    "service_id": "1197",
+    "trip_id": "922182",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "1"
   },
   {
     "route_id": "A1-2-33",
-    "service_id": "1193",
-    "trip_id": "920364",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921934",
+    "trip_headsign": "Benidorm",
     "shape_id": "2"
   },
   {
     "route_id": "A1-17-2",
-    "service_id": "1193",
-    "trip_id": "920560",
-    "trip_headsign": "El Campello",
+    "service_id": "1197",
+    "trip_id": "922183",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "1"
   },
   {
-    "route_id": "A1-17-33",
-    "service_id": "1193",
-    "trip_id": "920363",
+    "route_id": "A1-2-125",
+    "service_id": "1197",
+    "trip_id": "921935",
+    "trip_headsign": "Benidorm Intermodal",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-17-2",
+    "service_id": "1197",
+    "trip_id": "922184",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921936",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-17-2",
+    "service_id": "1197",
+    "trip_id": "922185",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-125",
+    "service_id": "1197",
+    "trip_id": "921937",
+    "trip_headsign": "Benidorm Intermodal",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922186",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921938",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922187",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921939",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922188",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921940",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-125-2",
+    "service_id": "1197",
+    "trip_id": "922189",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921941",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922190",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921942",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-125-2",
+    "service_id": "1197",
+    "trip_id": "922191",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921943",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922192",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921944",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922193",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921945",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922194",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921946",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922195",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-125",
+    "service_id": "1197",
+    "trip_id": "921947",
+    "trip_headsign": "Benidorm Intermodal",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922196",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921948",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922197",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-125",
+    "service_id": "1197",
+    "trip_id": "921949",
+    "trip_headsign": "Benidorm Intermodal",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922198",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921950",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922199",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921951",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922200",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921952",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-125-2",
+    "service_id": "1197",
+    "trip_id": "922201",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921953",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922202",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921954",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-125-2",
+    "service_id": "1197",
+    "trip_id": "922203",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921955",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922204",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921956",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922205",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-125",
+    "service_id": "1197",
+    "trip_id": "921957",
+    "trip_headsign": "Benidorm Intermodal",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922206",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921958",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922207",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-125",
+    "service_id": "1197",
+    "trip_id": "921959",
+    "trip_headsign": "Benidorm Intermodal",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922208",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921960",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922209",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921961",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922210",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921962",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-125-2",
+    "service_id": "1197",
+    "trip_id": "922211",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921963",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922212",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921964",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-125-2",
+    "service_id": "1197",
+    "trip_id": "922213",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921965",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922214",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-33",
+    "service_id": "1197",
+    "trip_id": "921966",
+    "trip_headsign": "Benidorm",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922215",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-2-17",
+    "service_id": "1197",
+    "trip_id": "921967",
     "trip_headsign": "El Campello",
     "shape_id": "2"
   },
   {
-    "route_id": "A1-17-33",
-    "service_id": "1193",
-    "trip_id": "920362",
-    "trip_headsign": "El Campello",
-    "shape_id": "2"
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922216",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
   },
   {
-    "route_id": "A1-17-33",
-    "service_id": "1193",
-    "trip_id": "920361",
-    "trip_headsign": "El Campello",
-    "shape_id": "2"
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922217",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922218",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922219",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A1-33-2",
+    "service_id": "1197",
+    "trip_id": "922220",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "921968",
+    "trip_headsign": "Sant Vicent del Raspeig",
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920559",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922221",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920360",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921969",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920558",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922222",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920359",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921970",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920557",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922223",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920358",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921971",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920556",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922224",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920357",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921972",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920555",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922225",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920356",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921973",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920554",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922226",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920355",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921974",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920553",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922227",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920354",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921975",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920552",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922228",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920353",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921976",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920551",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922229",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "23"
+  },
+  {
+    "route_id": "A2-124-2",
+    "service_id": "1197",
+    "trip_id": "922230",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920352",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "24"
-  },
-  {
-    "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920351",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921978",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920549",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922231",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920350",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921979",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920548",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922232",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920349",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921980",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920547",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922233",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920348",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921981",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920546",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922234",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920347",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921982",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920545",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922235",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920346",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921983",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920544",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922236",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920345",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921984",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920543",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922237",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920344",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921985",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920542",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922238",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920343",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921986",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920541",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922239",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920342",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921987",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920540",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922240",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920341",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921988",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920539",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922241",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920340",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921989",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920538",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922242",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920339",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921990",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920537",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922243",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920338",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921991",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920536",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922244",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920337",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921992",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920535",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922245",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920336",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921993",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920534",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922246",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920335",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921994",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920533",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922247",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920334",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921995",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920532",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922248",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920333",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921996",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920531",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922249",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920332",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921997",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920530",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922250",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920331",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921998",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920529",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922251",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920330",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "921999",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920528",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922252",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920329",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "922000",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920527",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922253",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920328",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "922001",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920526",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922254",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
     "route_id": "A2-2-124",
-    "service_id": "1193",
-    "trip_id": "920327",
-    "trip_headsign": "Alicante - Luceros",
+    "service_id": "1197",
+    "trip_id": "922002",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920525",
-    "trip_headsign": "Sant Vicent del Raspeig",
+    "service_id": "1197",
+    "trip_id": "922255",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-120-2",
-    "service_id": "1193",
-    "trip_id": "920326",
-    "trip_headsign": "Alicante - Luceros",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922003",
+    "trip_headsign": "Sant Vicent del Raspeig",
     "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920524",
+    "service_id": "1197",
+    "trip_id": "922256",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "23"
+  },
+  {
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922004",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920325",
+    "service_id": "1197",
+    "trip_id": "922257",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920523",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922005",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920324",
+    "service_id": "1197",
+    "trip_id": "922258",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920522",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922006",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920323",
+    "service_id": "1197",
+    "trip_id": "922259",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920521",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922007",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920322",
+    "service_id": "1197",
+    "trip_id": "922260",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920520",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922008",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920321",
+    "service_id": "1197",
+    "trip_id": "922261",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920519",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922009",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920320",
+    "service_id": "1197",
+    "trip_id": "922262",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920518",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922010",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920319",
+    "service_id": "1197",
+    "trip_id": "922263",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920517",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922011",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920318",
+    "service_id": "1197",
+    "trip_id": "922264",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920516",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922012",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920317",
+    "service_id": "1197",
+    "trip_id": "922265",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920515",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922013",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920316",
+    "service_id": "1197",
+    "trip_id": "922266",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920514",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922014",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920315",
+    "service_id": "1197",
+    "trip_id": "922267",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920513",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922015",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920314",
+    "service_id": "1197",
+    "trip_id": "922268",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920512",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922016",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920313",
+    "service_id": "1197",
+    "trip_id": "922269",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920511",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922017",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920312",
+    "service_id": "1197",
+    "trip_id": "922270",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920510",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922018",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920311",
+    "service_id": "1197",
+    "trip_id": "922271",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920509",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922019",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920310",
+    "service_id": "1197",
+    "trip_id": "922272",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920508",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922020",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920309",
+    "service_id": "1197",
+    "trip_id": "922273",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920507",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922021",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920308",
+    "service_id": "1197",
+    "trip_id": "922274",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920506",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922022",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920307",
+    "service_id": "1197",
+    "trip_id": "922275",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920505",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922023",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920598",
+    "service_id": "1197",
+    "trip_id": "922276",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920504",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922024",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920599",
+    "service_id": "1197",
+    "trip_id": "922277",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920503",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922025",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920600",
+    "service_id": "1197",
+    "trip_id": "922278",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920502",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922026",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920601",
+    "service_id": "1197",
+    "trip_id": "922279",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920501",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922027",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920602",
+    "service_id": "1197",
+    "trip_id": "922280",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920500",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922028",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920603",
+    "service_id": "1197",
+    "trip_id": "922281",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920499",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922029",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920604",
+    "service_id": "1197",
+    "trip_id": "922282",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920498",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922030",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920605",
+    "service_id": "1197",
+    "trip_id": "922283",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920497",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922031",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920606",
+    "service_id": "1197",
+    "trip_id": "922284",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920496",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922032",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920607",
+    "service_id": "1197",
+    "trip_id": "922285",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920495",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922033",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920608",
+    "service_id": "1197",
+    "trip_id": "922286",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920494",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922034",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920609",
+    "service_id": "1197",
+    "trip_id": "922287",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920493",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922035",
     "trip_headsign": "Sant Vicent del Raspeig",
-    "shape_id": "23"
+    "shape_id": "24"
   },
   {
     "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920610",
+    "service_id": "1197",
+    "trip_id": "922288",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A2-124-2",
-    "service_id": "1193",
-    "trip_id": "920550",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922036",
     "trip_headsign": "Sant Vicent del Raspeig",
+    "shape_id": "24"
+  },
+  {
+    "route_id": "A2-124-2",
+    "service_id": "1197",
+    "trip_id": "922289",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "23"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920492",
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922037",
+    "trip_headsign": "Sant Vicent del Raspeig",
+    "shape_id": "24"
+  },
+  {
+    "route_id": "A2-124-2",
+    "service_id": "1197",
+    "trip_id": "922290",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "23"
+  },
+  {
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922038",
+    "trip_headsign": "Sant Vicent del Raspeig",
+    "shape_id": "24"
+  },
+  {
+    "route_id": "A2-124-2",
+    "service_id": "1197",
+    "trip_id": "922291",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "23"
+  },
+  {
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922039",
+    "trip_headsign": "Sant Vicent del Raspeig",
+    "shape_id": "24"
+  },
+  {
+    "route_id": "A2-124-2",
+    "service_id": "1197",
+    "trip_id": "922292",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "23"
+  },
+  {
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922040",
+    "trip_headsign": "Sant Vicent del Raspeig",
+    "shape_id": "24"
+  },
+  {
+    "route_id": "A2-124-2",
+    "service_id": "1197",
+    "trip_id": "922293",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "23"
+  },
+  {
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "922041",
+    "trip_headsign": "Sant Vicent del Raspeig",
+    "shape_id": "24"
+  },
+  {
+    "route_id": "A2-124-2",
+    "service_id": "1197",
+    "trip_id": "922294",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "23"
+  },
+  {
+    "route_id": "A2-2-124",
+    "service_id": "1197",
+    "trip_id": "921977",
+    "trip_headsign": "Sant Vicent del Raspeig",
+    "shape_id": "24"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922042",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
     "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920611",
+    "service_id": "1197",
+    "trip_id": "922295",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922043",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922296",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922044",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922297",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922045",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922298",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922046",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922299",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922047",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922300",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922048",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922301",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922049",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922302",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922050",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922303",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922051",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922304",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922052",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922305",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922053",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922306",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922054",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922307",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922055",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922308",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922056",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922309",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922057",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922310",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922058",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922311",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922059",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922312",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922060",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922313",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922061",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922314",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922062",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922315",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922063",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922316",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922064",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922317",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922065",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922318",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922066",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922319",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922067",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922320",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922068",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922321",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922069",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922322",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922070",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922323",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922071",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922324",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922072",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922325",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922073",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922326",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "5"
   },
   {
     "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920491",
-    "trip_headsign": "El Campello",
+    "service_id": "1197",
+    "trip_id": "922327",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "5"
   },
   {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922074",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
     "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920612",
+    "service_id": "1197",
+    "trip_id": "922328",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922075",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922329",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922076",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "A3-17-2",
+    "service_id": "1197",
+    "trip_id": "922330",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "5"
   },
   {
     "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920490",
-    "trip_headsign": "El Campello",
+    "service_id": "1197",
+    "trip_id": "922331",
+    "trip_headsign": "Alicante - Luceros",
     "shape_id": "5"
   },
   {
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922077",
+    "trip_headsign": "El Campello",
+    "shape_id": "6"
+  },
+  {
     "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920613",
+    "service_id": "1197",
+    "trip_id": "922332",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "5"
   },
   {
     "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920489",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920614",
+    "service_id": "1197",
+    "trip_id": "922333",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "5"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920488",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922078",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
     "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920615",
+    "service_id": "1197",
+    "trip_id": "922334",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "5"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920487",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922079",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
     "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920616",
+    "service_id": "1197",
+    "trip_id": "922335",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "5"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920486",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922080",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
     "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920617",
+    "service_id": "1197",
+    "trip_id": "922336",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "5"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920485",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922081",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920618",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920484",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922082",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920619",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920483",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922083",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920620",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920482",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922084",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920621",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920481",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922085",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920622",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920480",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922086",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920623",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920479",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922087",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920624",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920478",
+    "route_id": "A3-2-17",
+    "service_id": "1197",
+    "trip_id": "922088",
     "trip_headsign": "El Campello",
-    "shape_id": "5"
+    "shape_id": "6"
   },
   {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920625",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920477",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920626",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920476",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920627",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920475",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920628",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920474",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920629",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920473",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920630",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920472",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920631",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920471",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920632",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920470",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920633",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920469",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920634",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920468",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920635",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920467",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920636",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920466",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920637",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920465",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920638",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920464",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920639",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920463",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920640",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920462",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920641",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920461",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920642",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920460",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920643",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920459",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920644",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920458",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920645",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920457",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920646",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920456",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920647",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920455",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920648",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920454",
-    "trip_headsign": "El Campello",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A3-17-2",
-    "service_id": "1193",
-    "trip_id": "920649",
-    "trip_headsign": "Alicante - Luceros",
-    "shape_id": "5"
-  },
-  {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920453",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922089",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920650",
+    "service_id": "1197",
+    "trip_id": "922337",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920452",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922090",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920651",
+    "service_id": "1197",
+    "trip_id": "922338",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920451",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922091",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920652",
+    "service_id": "1197",
+    "trip_id": "922339",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920450",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922092",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920653",
+    "service_id": "1197",
+    "trip_id": "922340",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920449",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922093",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920654",
+    "service_id": "1197",
+    "trip_id": "922341",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920448",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922094",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920655",
+    "service_id": "1197",
+    "trip_id": "922342",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920447",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922095",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920656",
+    "service_id": "1197",
+    "trip_id": "922343",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920446",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922096",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920657",
+    "service_id": "1197",
+    "trip_id": "922344",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920445",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922097",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920658",
+    "service_id": "1197",
+    "trip_id": "922345",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920444",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922098",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920659",
+    "service_id": "1197",
+    "trip_id": "922346",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920443",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922099",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920660",
+    "service_id": "1197",
+    "trip_id": "922347",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920442",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922100",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920661",
+    "service_id": "1197",
+    "trip_id": "922348",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920441",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922101",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920662",
+    "service_id": "1197",
+    "trip_id": "922349",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920440",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922102",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920663",
+    "service_id": "1197",
+    "trip_id": "922350",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920439",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922103",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920664",
+    "service_id": "1197",
+    "trip_id": "922351",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920438",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922104",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920665",
+    "service_id": "1197",
+    "trip_id": "922352",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920437",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922105",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920666",
+    "service_id": "1197",
+    "trip_id": "922353",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920436",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922106",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920667",
+    "service_id": "1197",
+    "trip_id": "922354",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920435",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922107",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920668",
+    "service_id": "1197",
+    "trip_id": "922355",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920434",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922108",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920669",
+    "service_id": "1197",
+    "trip_id": "922356",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920433",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922109",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920670",
+    "service_id": "1197",
+    "trip_id": "922357",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920432",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922110",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920671",
+    "service_id": "1197",
+    "trip_id": "922358",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920431",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922111",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920672",
+    "service_id": "1197",
+    "trip_id": "922359",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920430",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922112",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920673",
+    "service_id": "1197",
+    "trip_id": "922360",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920429",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922113",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920674",
+    "service_id": "1197",
+    "trip_id": "922361",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920428",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922114",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920675",
+    "service_id": "1197",
+    "trip_id": "922362",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920427",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922115",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920676",
+    "service_id": "1197",
+    "trip_id": "922363",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920426",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922116",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920677",
+    "service_id": "1197",
+    "trip_id": "922364",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920425",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922117",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920678",
+    "service_id": "1197",
+    "trip_id": "922365",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920424",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922118",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920679",
+    "service_id": "1197",
+    "trip_id": "922366",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920423",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922119",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920680",
+    "service_id": "1197",
+    "trip_id": "922367",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920422",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922120",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920681",
+    "service_id": "1197",
+    "trip_id": "922368",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920421",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922121",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920682",
+    "service_id": "1197",
+    "trip_id": "922369",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920420",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922122",
     "trip_headsign": "Plaza La Coruña",
-    "shape_id": "27"
+    "shape_id": "25"
   },
   {
     "route_id": "A4-110-2",
-    "service_id": "1193",
-    "trip_id": "920683",
+    "service_id": "1197",
+    "trip_id": "922370",
     "trip_headsign": "Alicante - Luceros",
     "shape_id": "27"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920419",
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922123",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "A4-110-2",
+    "service_id": "1197",
+    "trip_id": "922371",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "27"
+  },
+  {
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922124",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "A4-110-2",
+    "service_id": "1197",
+    "trip_id": "922372",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "27"
+  },
+  {
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922125",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "A4-110-2",
+    "service_id": "1197",
+    "trip_id": "922373",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "27"
+  },
+  {
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922126",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "A4-110-2",
+    "service_id": "1197",
+    "trip_id": "922374",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "27"
+  },
+  {
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922127",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "A4-110-2",
+    "service_id": "1197",
+    "trip_id": "922375",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "27"
+  },
+  {
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922128",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "A4-110-2",
+    "service_id": "1197",
+    "trip_id": "922376",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "27"
+  },
+  {
+    "route_id": "A4-2-110",
+    "service_id": "1197",
+    "trip_id": "922129",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "A4-110-2",
+    "service_id": "1197",
+    "trip_id": "922377",
+    "trip_headsign": "Alicante - Luceros",
+    "shape_id": "27"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922130",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-17-101",
+    "service_id": "1197",
+    "trip_id": "922378",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922131",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-17-101",
+    "service_id": "1197",
+    "trip_id": "922379",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922132",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922380",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922133",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922381",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922134",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922382",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922135",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922383",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922136",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922384",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922137",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922385",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922138",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922386",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922139",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922387",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922140",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922388",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922141",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922389",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922142",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922390",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922143",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922391",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922144",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922392",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922145",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922393",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922146",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922394",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922147",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922395",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922148",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922396",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922149",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922397",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922150",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922398",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922151",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922399",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922152",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922400",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922153",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922401",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922154",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922402",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922155",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922403",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922156",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922404",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922157",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922405",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922158",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922406",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-110",
+    "service_id": "1197",
+    "trip_id": "922159",
+    "trip_headsign": "Plaza La Coruña",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922407",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-17",
+    "service_id": "1197",
+    "trip_id": "922160",
+    "trip_headsign": "El Campello",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922408",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A5-101-17",
+    "service_id": "1197",
+    "trip_id": "922161",
+    "trip_headsign": "El Campello",
+    "shape_id": "29"
+  },
+  {
+    "route_id": "A5-110-101",
+    "service_id": "1197",
+    "trip_id": "922409",
+    "trip_headsign": "Porta del Mar",
+    "shape_id": "28"
+  },
+  {
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922162",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-39-33",
-    "service_id": "1193",
-    "trip_id": "920684",
+    "service_id": "1197",
+    "trip_id": "922410",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-39-33",
-    "service_id": "1193",
-    "trip_id": "920418",
+    "route_id": "A9-33-39",
+    "service_id": "1197",
+    "trip_id": "922163",
     "trip_headsign": "Garganes",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920685",
+    "service_id": "1197",
+    "trip_id": "922411",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920417",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922164",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920686",
+    "service_id": "1197",
+    "trip_id": "922412",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920416",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922165",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920687",
+    "service_id": "1197",
+    "trip_id": "922413",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920415",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922166",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920688",
+    "service_id": "1197",
+    "trip_id": "922414",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920414",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922167",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920689",
+    "service_id": "1197",
+    "trip_id": "922415",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920413",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922168",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920690",
+    "service_id": "1197",
+    "trip_id": "922416",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920412",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922169",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920691",
+    "service_id": "1197",
+    "trip_id": "922417",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920411",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922170",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920692",
+    "service_id": "1197",
+    "trip_id": "922418",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920410",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922171",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920693",
+    "service_id": "1197",
+    "trip_id": "922419",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920409",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922172",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920694",
+    "service_id": "1197",
+    "trip_id": "922420",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920408",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922173",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920695",
+    "service_id": "1197",
+    "trip_id": "922421",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920407",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922174",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920696",
+    "service_id": "1197",
+    "trip_id": "922422",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920406",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922175",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920697",
+    "service_id": "1197",
+    "trip_id": "922423",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920405",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922176",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920698",
+    "service_id": "1197",
+    "trip_id": "922424",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920404",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922177",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920699",
+    "service_id": "1197",
+    "trip_id": "922425",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920403",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922178",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920700",
+    "service_id": "1197",
+    "trip_id": "922426",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920402",
+    "route_id": "A9-33-50",
+    "service_id": "1197",
+    "trip_id": "922179",
     "trip_headsign": "Dénia",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-39-33",
-    "service_id": "1193",
-    "trip_id": "920701",
+    "service_id": "1197",
+    "trip_id": "922427",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   },
   {
-    "route_id": "A9-39-33",
-    "service_id": "1193",
-    "trip_id": "920401",
+    "route_id": "A9-33-39",
+    "service_id": "1197",
+    "trip_id": "922180",
     "trip_headsign": "Garganes",
-    "shape_id": "21"
+    "shape_id": "22"
   },
   {
     "route_id": "A9-50-33",
-    "service_id": "1193",
-    "trip_id": "920702",
+    "service_id": "1197",
+    "trip_id": "922428",
     "trip_headsign": "Benidorm",
     "shape_id": "21"
   }
